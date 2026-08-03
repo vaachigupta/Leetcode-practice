@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,11 +39,13 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
