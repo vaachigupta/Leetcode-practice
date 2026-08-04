@@ -30,6 +30,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -64,4 +65,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
