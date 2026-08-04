@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/vaachigupta/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
@@ -35,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaachigupta/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vaachigupta/Leetcode-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
