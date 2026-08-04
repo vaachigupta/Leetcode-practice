@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaachigupta/Leetcode-practice/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
