@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vaachigupta/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/vaachigupta/Leetcode-practice/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vaachigupta/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
