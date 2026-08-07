@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vaachigupta/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaachigupta/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -71,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
