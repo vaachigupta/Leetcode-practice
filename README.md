@@ -37,6 +37,7 @@
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -48,12 +49,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaachigupta/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
