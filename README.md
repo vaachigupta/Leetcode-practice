@@ -25,6 +25,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaachigupta/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,8 +119,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
