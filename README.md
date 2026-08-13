@@ -14,6 +14,7 @@
 | [1470-shuffle-the-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
+| [1929-concatenation-of-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaachigupta/Leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
