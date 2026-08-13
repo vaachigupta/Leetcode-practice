@@ -15,6 +15,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vaachigupta/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaachigupta/Leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vaachigupta/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bracket Sequences
 |  |
@@ -144,4 +146,12 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vaachigupta/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vaachigupta/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
