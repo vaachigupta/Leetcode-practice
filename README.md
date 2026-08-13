@@ -11,6 +11,7 @@
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1470-shuffle-the-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
