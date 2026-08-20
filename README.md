@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaachigupta/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaachigupta/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/vaachigupta/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
