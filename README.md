@@ -42,6 +42,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vaachigupta/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaachigupta/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaachigupta/Leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -58,6 +59,7 @@
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
+| [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vaachigupta/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaachigupta/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -82,6 +84,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/vaachigupta/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
+| [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vaachigupta/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -147,6 +150,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vaachigupta/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vaachigupta/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
