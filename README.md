@@ -66,6 +66,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaachigupta/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vaachigupta/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vaachigupta/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaachigupta/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vaachigupta/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
