@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0835-image-overlap](https://github.com/vaachigupta/Leetcode-practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/vaachigupta/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
@@ -221,5 +222,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vaachigupta/Leetcode-practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaachigupta/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
