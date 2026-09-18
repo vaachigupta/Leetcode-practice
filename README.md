@@ -41,6 +41,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/vaachigupta/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaachigupta/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaachigupta/Leetcode-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -74,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vaachigupta/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -103,6 +105,7 @@
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/vaachigupta/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vaachigupta/Leetcode-practice/tree/master/2029-stone-game-ix) |
@@ -115,6 +118,7 @@
 | [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaachigupta/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
