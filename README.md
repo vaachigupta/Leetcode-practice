@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaachigupta/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/vaachigupta/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -76,6 +77,7 @@
 | [0020-valid-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
@@ -226,6 +228,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/vaachigupta/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Union-Find
 |  |
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vaachigupta/Leetcode-practice/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
