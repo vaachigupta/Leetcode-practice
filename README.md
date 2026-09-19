@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vaachigupta/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0704-binary-search](https://github.com/vaachigupta/Leetcode-practice/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/vaachigupta/Leetcode-practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
@@ -254,6 +255,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/vaachigupta/Leetcode-practice/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Recursion
 |  |
