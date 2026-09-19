@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaachigupta/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaachigupta/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/vaachigupta/Leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/vaachigupta/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/vaachigupta/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0835-image-overlap](https://github.com/vaachigupta/Leetcode-practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/vaachigupta/Leetcode-practice/tree/master/1140-stone-game-ii) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/vaachigupta/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
