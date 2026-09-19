@@ -271,4 +271,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vaachigupta/Leetcode-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
