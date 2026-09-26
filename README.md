@@ -277,5 +277,6 @@
 | [0175-combine-two-tables](https://github.com/vaachigupta/Leetcode-practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vaachigupta/Leetcode-practice/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/vaachigupta/Leetcode-practice/tree/master/0178-rank-scores) |
+| [0584-find-customer-referee](https://github.com/vaachigupta/Leetcode-practice/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaachigupta/Leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
