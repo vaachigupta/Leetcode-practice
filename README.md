@@ -78,6 +78,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaachigupta/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaachigupta/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaachigupta/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,9 +95,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vaachigupta/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaachigupta/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/0392-is-subsequence) |
@@ -325,4 +328,8 @@
 | [1934-confirmation-rate](https://github.com/vaachigupta/Leetcode-practice/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/vaachigupta/Leetcode-practice/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vaachigupta/Leetcode-practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vaachigupta/Leetcode-practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
