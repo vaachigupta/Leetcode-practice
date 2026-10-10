@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/vaachigupta/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vaachigupta/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaachigupta/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -263,6 +264,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vaachigupta/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/vaachigupta/Leetcode-practice/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vaachigupta/Leetcode-practice/tree/master/2333-minimum-sum-of-squared-difference) |
