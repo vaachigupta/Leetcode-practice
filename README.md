@@ -23,6 +23,7 @@
 | [1929-concatenation-of-array](https://github.com/vaachigupta/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/vaachigupta/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vaachigupta/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vaachigupta/Leetcode-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaachigupta/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaachigupta/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -116,6 +117,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/vaachigupta/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vaachigupta/Leetcode-practice/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vaachigupta/Leetcode-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vaachigupta/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -127,6 +129,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaachigupta/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vaachigupta/Leetcode-practice/tree/master/1710-maximum-units-on-a-truck) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vaachigupta/Leetcode-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaachigupta/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vaachigupta/Leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaachigupta/Leetcode-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vaachigupta/Leetcode-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +262,7 @@
 | ------- |
 | [0704-binary-search](https://github.com/vaachigupta/Leetcode-practice/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaachigupta/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vaachigupta/Leetcode-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Recursion
 |  |
 | ------- |
